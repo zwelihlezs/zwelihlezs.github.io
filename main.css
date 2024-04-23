@@ -1,0 +1,13 @@
+body{
+    /* background-color: rgba(127, 255, 212, 0.288); */
+}
+
+#profile_picture{
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
+
+td{
+    padding:10px 20px 15px 20px;
+}
